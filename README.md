@@ -81,7 +81,7 @@ This is a self-directed cybersecurity home lab project built to simulate a small
 
 ## 🧠 Why This Matters
 
-This project bridges the gap between theory and practice by simulating a SOC environment using open-source tools. It helped me internalize the core responsibilities of a SOC analyst, from log ingestion to real-time alert triage—and reinforced my understanding of how detection tools map to real-world attacks.
+This project bridges the gap between theory and practice by simulating a SOC environment using open-source tools. It helped me internalize the core responsibilities of a SOC analyst, from log ingestion to real-time alert triage and reinforced my understanding of how detection tools map to real-world attacks.
 
 ---
 
