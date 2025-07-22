@@ -2,7 +2,7 @@
 
 This is a self-directed cybersecurity home lab project built to simulate a small-scale Security Operations Center (SOC) using open-source tools. The goal was to gain hands-on experience with threat detection, log analysis, alert triage, and security monitoring workflows typically used by Tier 1 SOC analysts.
 
-> 📺 Project inspired by [David Bombal's Wazuh ELK Stack Tutorial](https://www.youtube.com/watch?v=i68atPbB8uQ)
+> 📺 Project inspired by [John Hammond Wazuh ELK Stack Tutorial](https://www.youtube.com/watch?v=i68atPbB8uQ)
 
 ---
 
@@ -89,4 +89,4 @@ This project bridges the gap between theory and practice by simulating a SOC env
 
 - [Wazuh Documentation](https://documentation.wazuh.com/)
 - [Elastic Stack Documentation](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html)
-- [David Bombal’s YouTube Channel](https://www.youtube.com/c/DavidBombal)
+- [John Hammond's YouTube Channel](https://www.youtube.com/@_JohnHammond)
