@@ -31,9 +31,9 @@ This is a self-directed cybersecurity home lab project built to simulate a small
 
 ## 🏗️ Lab Architecture
 +-----------------+ Sysmon Logs +--------------------+
-| Windows 10 VM | ----------------> | |
-| (Endpoint Host) | | Wazuh Manager |
-+-----------------+ | (Ubuntu Server VM) |
+| Windows 10 VM | ----------------> | || (Endpoint Host) | | Wazuh Manager |
++-----------------+
+| (Ubuntu Server VM) |
 | |
 +-----------------+ Syslog | +----------------+ |
 | Linux Client | ----------------> | | ELK Stack | |
