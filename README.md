@@ -76,7 +76,6 @@ This is a self-directed cybersecurity home lab project built to simulate a small
 - Automate log parsing with custom decoders
 - Simulate phishing, privilege escalation, or persistence techniques
 - Deploy Security Onion as a complementary NSM stack
-
 ---
 
 ## 🧠 Why This Matters
